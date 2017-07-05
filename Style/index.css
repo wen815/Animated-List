@@ -1,0 +1,11 @@
+/*list*/
+ul li{list-style: none;float:left;width:300px;height: 250px;border:1px solid green;overflow:hidden;}
+
+/*section*/
+.s1{width:0px;height: 250px;display:none;position: absolute;background-color:#2376ab;color:white;}
+
+/*images*/
+img{width:300px;height: 250px;margin:0 10px;position:relative;left:-10px;}
+
+/*hyper link*/
+a{color:white;}
